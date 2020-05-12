@@ -25,6 +25,7 @@ public class BoardController {
 		int no = view.inputBNo();
 		Board board = bser.selectOne(no);
 		
+		
 		if(board!=null) {
 			view.selectOne(board);
 		}else {
