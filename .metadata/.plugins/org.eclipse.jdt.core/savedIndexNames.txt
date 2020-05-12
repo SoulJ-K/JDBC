@@ -19,7 +19,6 @@ INDEX VERSION 1.131+C:\workspace\3_JDBC_workspace\.metadata\.plugins\org.eclipse
 1585261757.index
 173680289.index
 1703370312.index
-695868459.index
 1642536134.index
 3559423655.index
 324093397.index
