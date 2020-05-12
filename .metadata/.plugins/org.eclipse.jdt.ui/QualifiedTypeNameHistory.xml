@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.kh.view.Menu"/>
+<fullyQualifiedTypeName name="com.kh.model.vo.Employee"/>
+<fullyQualifiedTypeName name="controller.EmployeeController"/>
+<fullyQualifiedTypeName name="dao.EmployeeDAO"/>
+<fullyQualifiedTypeName name="view.Menu"/>
+<fullyQualifiedTypeName name="vo.Employee"/>
+<fullyQualifiedTypeName name="com.kh.view.MemberMenu"/>
+<fullyQualifiedTypeName name="com.kh.model.vo.Member"/>
+<fullyQualifiedTypeName name="com.kh.model.service.MemberService"/>
+<fullyQualifiedTypeName name="com.kh.model.dao.MemberDAO"/>
+<fullyQualifiedTypeName name="com.kh.member.model.vo.Member"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="com.kh.board.common.JDBCTemplate"/>
+<fullyQualifiedTypeName name="com.kh.board.model.dao.MemberDAO"/>
+<fullyQualifiedTypeName name="java.util.Properties"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="com.kh.board.controller.BoardController"/>
+<fullyQualifiedTypeName name="com.kh.board.model.service.BoardService"/>
+<fullyQualifiedTypeName name="com.kh.view.View"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.kh.board.model.vo.Board"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="com.kh.board.model.dao.BoardDAO"/>
+<fullyQualifiedTypeName name="java.sql.Statement"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="com.kh.common.JDBCTemplate"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+</qualifiedTypeNameHistroy>
